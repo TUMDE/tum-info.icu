@@ -2,7 +2,7 @@
 - [Course](/courses/)
     - [Algorithms (ALG)](/courses/alg/)
     - [Computer Graphics and Vision (CGV)](/courses/cgv/)
-    - [Databases and Information Systems (DBI)](/courses/dbi/)
+    <!-- - [Databases and Information Systems (DBI)](/courses/dbi/)
     - [Digital Biology and Digital Medicine (DBM)](/courses/dbm/)
     - [Engineering Software-intensive Systems (SE)](/courses/se/)
     - [Formal Methods and their Applications (FMA)](/courses/fma/)
@@ -10,5 +10,5 @@
     - [Computer Architecture, Computer Networks and Distributed Systems (RRV)](/courses/rrv/)
     - [Robotics (ROB)](/courses/rob/)
     - [Security and Privacy (SP)](/courses/sp/)
-    - [Scientific Computing and High Performance Computing (HPC)](/courses/hpc/)
+    - [Scientific Computing and High Performance Computing (HPC)](/courses/hpc/) -->
 - [Latest Update](/recent)
